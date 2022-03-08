@@ -11,5 +11,5 @@ Cet exemple montre la chose la plus simple que vous puissiez faire avec un Ardui
 
 ## Installation
 ```bash
-git clone https://github.com/AloneDay-91/Blink-
+git clone https://github.com/AloneDay-91/Blink
 ```
